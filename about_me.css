@@ -1,0 +1,67 @@
+nav{
+    background: #757D75;
+    margin-bottom: 30px;
+    overflow:hidden;
+}
+nav li{
+    float: left;
+    list-style-type: none;
+    }
+nav a{
+    text-decoration: none;
+    border: none;
+    color: currentColor;
+    border-radius: o;
+    padding: 8px;
+    transition: 0.5s;
+}
+nav a:hover{
+    background: #fff;
+    color: currentColor;
+}
+body {
+  background-image: url(../img/backhaikei.jpg);
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+  background-color: #464646;
+}
+img{
+    float:left;
+    margin: 10px;
+}
+<!--div{
+    margin-top: auto;
+    margin-right: auto;    
+    margin-left: auto;
+}-->
+.col-6{
+    width:600px;
+	overflow: hidden;
+    margin-bottom: 20px;
+}
+.col-3{
+    width: 290px;
+    padding: 5px;
+    float: left;
+    overflow: hidden;
+}
+.profile{
+    float: left;  
+    font-size: 12px;
+    width: 400px;
+    margin-bottom: 10px;
+}
+.content{
+    float: left;
+    width: 600px;    
+}
+.box white{
+    padding: 20px; 
+    margin-bottom: 10px;
+    border: 1px solid #333333; 
+    background-color: #ffffff;
+}
+
+        
